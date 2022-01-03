@@ -4,7 +4,6 @@
     "version": "1.0.1",
     "manifest_version": 3,
     "permissions": [
-        "storage",
         "activeTab",
         "scripting"
     ],
