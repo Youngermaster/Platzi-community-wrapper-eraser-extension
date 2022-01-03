@@ -1,4 +1,6 @@
-# Platzi Community wrapper eraser
+# Platzi Community Wrapper Eraser Extension
+
+![PCWEE_Logo](images/pcwee128.png)
 
 The idea of this project is to remove the Community section on the Platzi's courses.
 
