@@ -1,7 +1,7 @@
 {
-    "name": "Getting Started Example",
-    "description": "Build an Extension!",
-    "version": "1.0",
+    "name": "Platzi Community Wrapper Eraser",
+    "description": "The idea of this project is to remove the Community section on the Platzi's courses.",
+    "version": "1.0.1",
     "manifest_version": 3,
     "permissions": [
         "storage",
