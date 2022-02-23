@@ -12,5 +12,5 @@ like the community section, just don't download it, but if you don't like, go ah
 
 ## TODOs
 
-[] Add a selectable state.
-[] Add a background service that removes the *community wrapper* automatically.
+- [ ] Add a selectable state.
+- [ ] Add a background service that removes the *community wrapper* automatically.
